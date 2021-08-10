@@ -1,0 +1,32 @@
+{
+	"Root":{
+		"Title:" : "Administration"
+	},
+	"GridColumn" : {
+		"FirstName" : "First name"
+	},
+	"Menus":{
+		"Customers" :"CustomersEn",
+		"Orders" : "Orders",
+		"Solutions": "SolutionsEn",
+		"Statistics": "Statistics",
+		"Log": "Log",
+		"ViewAllActive": "View All Active",
+		"ActiveCustomers": "Active customers",
+		"ActiveUsers": "Active users",
+		"ViewAllInactive": "View All Inactive",
+		"InActiveCustomers": "InActive customers",
+		"InactiveUsers": "Inactive users",
+		"ViewTestcustomers": "View Testcustomers",
+		"ActiveTestcustomers": "Active Testcustomers",
+		"InactiveTestcustomers": "Inactive Testcustomers",
+		"NewbizThisWeek": "Newbiz this week",
+		"Professional": " Professional",
+		"Advanced": " Advanced",
+		"Export": "Export",
+		"Light":" Light",
+		"LookUp": " Look Up",
+		"Testversion": " Testversion",
+		"TotalNewbiz": " Total Newbiz"
+	}
+}
